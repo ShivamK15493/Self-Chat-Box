@@ -1,0 +1,97 @@
+*
+{
+    margin: 0px 0px;
+}
+#he
+{
+    font-family: sans-serif;
+}
+#err
+{
+  color: red;
+}
+.container
+{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.todoarea
+{
+    width: 18rem;
+    height: 24rem;
+    border: 0.01rem solid black;
+    background-color: aliceblue;
+    padding-bottom: 0.15rem;
+}
+.todoup
+{
+    padding-top: 1rem;
+    margin-top: 0.2rem;
+    width: 17.5rem;
+    height: 20rem;
+    border: 0.01rem solid black;
+    background-color: rgb(231, 243, 255);
+    overflow: scroll;
+    scrollbar-width: thin;
+    scrollbar-color: red;
+}
+.tododown
+{
+    margin-top: 0.1rem;
+    width: 17.5rem;
+    height: 2.5rem;
+    border: 0.01rem solid black;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+input
+{
+    width: 14.5rem;
+    height: 2.2rem;
+    background-color: lightgreen;
+    border: none;
+}
+.tododown img
+{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 0.6rem;
+    cursor: pointer;
+}
+.mm
+{
+    height: 1.5rem;
+    background-color: white;
+    font-family: arial;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    border: 2px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 24px rgba(10, 10, 10, 0.08);
+    margin-bottom: 0.1rem;
+    font-size: 0.7rem;
+    font-family: sans-serif;
+}
+.note
+{
+    font-family: sans-serif;
+}
+#cl
+{
+    width: 4rem;
+    height: 1.5rem;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    background-color: red;
+    border-radius: 0.5rem;
+    border: 0.01rem solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
