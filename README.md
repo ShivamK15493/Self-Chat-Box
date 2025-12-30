@@ -1,0 +1,1 @@
+The Self Chat Box is a simple and interactive web-based messaging interface built using HTML, CSS, and JavaScript. It allows users to type messages and instantly view their own messages inside a scrollable chat area, creating a smooth self-conversation or note-taking experience.
